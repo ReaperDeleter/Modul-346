@@ -1,1 +1,7 @@
+Ergebnisse anhand der Screenshots:
 
+    SSH-Zugriff mit dem ersten Schlüssel:
+        Der Zugriff war nicht erfolgreich. Der Screenshot zeigt den ausgeführten ssh-Befehl mit dem ersten Schlüssel und die darauf folgende Fehlermeldung. Dies deutet darauf hin, dass der erste Schlüssel nicht korrekt eingerichtet wurde oder ein Problem bei der Konfiguration bestand.
+    
+SSH-Zugriff mit dem zweiten Schlüssel:
+        Der Zugriff war erfolgreich. Der Screenshot zeigt den ausgeführten ssh-Befehl mit dem zweiten Schlüssel und den erfolgreichen Login auf die Instanz. Dies bestätigt, dass der zweite Schlüssel korrekt eingerichtet und funktionstüchtig war.
